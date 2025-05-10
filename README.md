@@ -35,22 +35,32 @@ Screenshots:
 
 
 Opening the Program and X's Turn
+
+
 ![image](https://github.com/user-attachments/assets/384b4998-9e4d-439d-8edf-15a4474b9842)
 
 
 O's Turn
+
+
 ![image](https://github.com/user-attachments/assets/4a1f250e-d92b-4790-9591-146a3f55b66f)
 
 
 X's Win
+
+
 ![image](https://github.com/user-attachments/assets/8417fac5-83ea-4e68-baf1-94e36d9eb207)
 
 
 O's Win
+
+
 ![image](https://github.com/user-attachments/assets/add3ca24-1763-43cb-b6c9-710774603df7)
 
 
 Draw:
+
+
 ![image](https://github.com/user-attachments/assets/60a38f7f-76e9-4b2d-9b0b-d67defe0144f)
 
 
